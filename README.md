@@ -31,3 +31,4 @@ Giao dịch ngoại hối sử dụng Expert Advisors hoàn toàn dự trên ph�
 Hướng dẫn cài đặt:
 - Cài đặt tự động (Windows): Chạy trình cài đặt tự động LuckyLiteEA.exe và làm theo các bước được hướng dẫn.
 - Cài đặt thủ công: Giải nén tập tin nén LuckyLiteEA.zip. Mở thư mục MQL4 của MT4 (Menu: File -> Open Data Folder -> MQL4), copy các tập tin tương ứng với Experts, Indicators, Presets đã được giải nén trước đó, sau đó khởi động lại MT4
++ Group trao đổi: https://www.facebook.com/groups/1866110850160540/
